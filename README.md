@@ -1,4 +1,4 @@
-# droid
+# Droid
 A console based android mobile simulator that uses ftp for wireless communication.
 
 In this app I have extensively used file handling and ftp connections to wirelessly create a connection between android mobile and laptop/pc.
